@@ -9,7 +9,7 @@ An enhanced calculator that combines digit recognition with gesture controls for
   - Gestures for operators:
     - **+**: (Index + Middle) Fingers Up
     - **-**: (Index + Middle + Ring) Fingers Up
-    - ***: (Index + Middle + Ring + Pinky) Fingers Up
+    - *****: (Index + Middle + Ring + Pinky) Fingers Up
     - **/**: (Pinky + Ring) Fingers Up
 - Advanced controls:
   - **Fist for 1s**: Evaluate expression
