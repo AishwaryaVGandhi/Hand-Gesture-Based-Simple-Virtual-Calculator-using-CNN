@@ -22,7 +22,7 @@ A virtual calculator controlled by hand gestures, using finger positions to pres
 - Math module
 
 ## Usage
-1. Run the script: `python gesture_calculator_phase1.py`
+1. Run the script: `python On-screen Buttons.py`
 2. Use your right hand to point at buttons
 3. Pinch thumb and index finger to press buttons
 4. Press 'c' to exit
