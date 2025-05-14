@@ -20,7 +20,7 @@ This project uses a Convolutional Neural Network (CNN) to recognize handwritten 
 - NumPy
 
 ## Usage
-1. Run the script: `python digit_recognition.py`
+1. Run the script: `python Handwritten Digits Recognition.py`
 2. Point your index finger at the camera to draw digits
 3. Press 'r' to recognize your drawn digit
 4. Press 'c' to clear the board
